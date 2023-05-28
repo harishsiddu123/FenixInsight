@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+}
+
+#All{
+  background-color: blue;
+}
+.fenixlogo{
+  position: relative;
+  top: 10px;
+  background-color: red;
+  height: 100px;
+  border-radius: 15px;
+ width: auto;
+}
+#logo{
+  position: relative;
+  right: 400px;
+}
+#world{
+  height: 550px;
+  width: 550px;
+  position: relative;
+  top: 50px;
+  left: 200px;
+}
+.AI{
+  position: relative;
+  right: 400px;
+  bottom: 350px;
+}
+h1,p,h6{
+  color: white;
+}
+#btn{
+  position: relative;
+  left: 200px;
+}
+#fenix-mini{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.earth{
+  height: 400px;
+  width: 400px;
+  position: relative;
+  left: 300px;
+}
+#Pro1{
+  height: 700px;
+  width: 250px;
+  border: 2px solid white;
+  border-radius: 20px;
+  text-align: left;
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+#Pro2{
+  height: 700px;
+  width: 250px;
+  border: 2px solid white;
+  border-radius: 20px;
+  text-align: left;
+  position: relative;
+  left: 450px;
+  bottom: 645px;
+}
+#Pro3{
+  height: 700px;
+  width: 250px;
+  border: 2px solid white;
+  border-radius: 20px;
+  text-align: left;
+  position: relative;
+  left: 850px;
+  bottom: 1340px;
+}
+#bgimg{
+  position: relative;
+  bottom: 1250px;
+height:100%;
+width:100%;
+opacity: 1;
+}
+#heading{
+  position: relative;
+  bottom: 1800px;
+  right: 120px;
+  left: 50px;
+  height: 250px;
+  width: 350px;
+ background-color: brown;
+ border-radius: 10px;
+}
